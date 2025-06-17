@@ -42,36 +42,36 @@ UFC-Analysis
 ```
 Plots 
 
-![Screenshot of plot show advantage by weightclass](./plots/advantage_by_weightclass.png)
+![Screenshot of plot show advantage by weightclass](MMA%20Analysis/plots/advantage_by_weightclass.png)
 
-![Screenshot of plot](./plots/age_analysis.png)
+![Screenshot of plot](MMA%20Analysis/plots/age_analysis.png)
 
-![Screenshot of plot](./plots/experience_analysis.png)
+![Screenshot of plot](MMA%20Analysis/plots/experience_analysis.png)
 
-![Screenshot of plot](./plots/fight_count_by_year.png)
+![Screenshot of plot](MMA%20Analysis/plots/fight_count_by_year.png)
 
-![Screenshot of plos](./plots/finish_ratios.png)
+![Screenshot of plos](MMA%20Analysis/plots/finish_ratios.png)
 
-![Screenshot of plot](./plots/gender_all_Age_boxplot.png)
+![Screenshot of plot](MMA%20Analysis/plots/gender_all_Age_boxplot.png)
 
-![Screenshot of plot](./plots/gender_all_Height_boxplot.png)
+![Screenshot of plot](MMA%20Analysis/plots/gender_all_Height_boxplot.png)
 
-![Screenshot of plot](./plots/gender_all_Reach_boxplot.png)
+![Screenshot of plot](MMA%20Analysis/plots/gender_all_Reach_boxplot.png)
 
-![Screenshot of plot](./plots/gender_all_Wins_boxplot.png)
+![Screenshot of plot](MMA%20Analysis/plots/gender_all_Wins_boxplot.png)
 
-![Screenshot of plot](./plots/heavyweight_gap_bins.png)
+![Screenshot of plot](MMA%20Analysis/plots/heavyweight_gap_bins.png)
 
-![Screenshot of plot](./plots/roc_KNN.png)
+![Screenshot of plot](MMA%20Analysis/plots/roc_KNN.png)
 
-![Screenshot of plot](./plots/roc_LogisticRegression.png)
+![Screenshot of plot](MMA%20Analysis/plots/roc_LogisticRegression.png)
 
-![Screenshot of plot](./plots/roc_RandomForest.png)
+![Screenshot of plot](MMA%20Analysis/plots/roc_RandomForest.png)
 
-![Screenshot of plot](./plots/round_distribution.png)
+![Screenshot of plot](MMA%20Analysis/plots/round_distribution.png)
 
-![Screenshot of plot](./plots/stance_analysis_vertical.png)
+![Screenshot of plot](MMA%20Analysis/plots/stance_analysis_vertical.png)
 
-![Screenshot of plot](./plots/win_method_distribution.png)
+![Screenshot of plot](MMA%20Analysis/plots/win_method_distribution.png)
 
 
